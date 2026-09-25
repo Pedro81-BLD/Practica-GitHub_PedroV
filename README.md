@@ -5,7 +5,7 @@
 Este repositorio ha sido creado para realizar la práctica de introducción a GitHub. Su objetivo es aprender a crear un repositorio, subir archivos de código, generar diferentes versiones de un mismo archivo y aprender a utilizar el historial de versiones.
 
 ### DESCRIPCIÓN
-En este repositorio incluyo tres versiones de un mismo archivo que he modificado varias veces para practicar con GitHub.
+En este repositorio incluyo cuatro versiones de un mismo archivo que he modificado varias veces para practicar con GitHub.
 A través de esta actividad he realizado diferentes operaciones como:
 - Subir archivos al repositorio.
 - Editar archivos.
