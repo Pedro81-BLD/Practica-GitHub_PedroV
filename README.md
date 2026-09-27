@@ -1,11 +1,8 @@
 <hi>PRÁCTICA GITHUB-PEDRO V</h1>
 <h2>ACTIVIDAD 1</h2>
 
-### PROPÓSITO
-Este repositorio ha sido creado para realizar la práctica de introducción a GitHub. Su objetivo es aprender a crear un repositorio, subir archivos de código, generar diferentes versiones de un mismo archivo y aprender a utilizar el historial de versiones.
-#### Objetivo de la actividad: 
-Aprender a crear y configurar una cuenta en GitHub, crear un repositorio, añadir 
-colaboradores, y subir un archivo de código desde el ordenador local.
+### PROPÓSITO 
+Aprender a crear y configurar una cuenta en GitHub, crear un repositorio, añadir colaboradores, y subir un archivo de código desde el ordenador local.
 
 ### DESCRIPCIÓN
 En este repositorio incluyo cuatro versiones de un mismo archivo que he modificado varias veces para practicar con GitHub.
