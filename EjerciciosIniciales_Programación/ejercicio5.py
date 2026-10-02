@@ -5,4 +5,5 @@ variable3 = input("Introduce la tercera palabra: ")
 variable4 = input("Introduce la cuarta palabra: ")
 variable5 = input("Introduce la quinta palabra: ")
 
-print(variable1 + ",", variable2 + ",", variable3 + ",", variable4 + " y", variable5 + ".")
+print(variable1 + variable2 + variable3 + variable4 + variable5)
+print(variable1 +",",variable2 +",",variable3 +",",variable4 +" y",variable5 +".")
