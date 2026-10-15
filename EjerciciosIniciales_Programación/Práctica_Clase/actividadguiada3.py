@@ -1,15 +1,14 @@
 #calcular longitud y área de un círculo
 import math
-radio=float(input("Introduce el radio del círculo: "))
+var_radio = float(input("Introduce el radio del círculo: "))
 
-area=math.pi*(radio**2)
-longitud=math.pi*2*radio
+var_area = math.pi * 2 ** var_radio
+var_longitud = 2 * math.pi * var_radio
 
-print(f"El área del círculo es: {area:.2}")
-print(f"La longitud del círculo es: {longitud:.2}")
+print(var_area)
+print(var_longitud)
 
 
-#otra manera de hacer el ejercicio
-import math
-
-radio=float(input("Introduce el radio: "))
+#redondear con dos métodos: round y f
+#cuál de los dos métodos de math me gustaría que utilizase para redondear mi media
+#printear los resultados por pantalla
